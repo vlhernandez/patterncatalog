@@ -1,0 +1,14 @@
+body {
+  font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+.pattern-name {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: normal;
+  background-color: rgb(132, 227, 183);
+}
+
+img{
+  max-width: 200px;
+}
